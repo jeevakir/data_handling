@@ -51,8 +51,9 @@ static unsigned long last_i_time=0;
 void rain(),rtccheck(),initial(),ATRH(),timenow(),sdwrite(),sdata(),sdata1();/*gettime(),*/
 char *formatNumber(float number, int len, int prec);
 const int PROGMEM port = 80;
-const char* ssid = "Tortilla";//AP ssid
-const char* password = "Andi@123";//AP password
+
+const char* ssid = "******";//AP ssid
+const char* password = "******";//AP password
 
 WiFiUDP udp;
 
