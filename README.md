@@ -5,3 +5,4 @@ These scripts are not entirely my creations as some parts of the code might have
 
 I have heavily modified the codes if I took those from different sources for my use case and the original codes will be aound 30 percent and remainig 70 percent is my owrk.
 
+this repositoy is incomplete adnthe scripts i create will be added here time by time basis. 
