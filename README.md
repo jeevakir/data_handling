@@ -1,4 +1,5 @@
-# random_codes
+# scieintific data handling
+
 This is repositry of random scripts and programs that I wrote at different time for different purposes. This includes different languages as well.
 
 These scripts are not entirely my creations as some parts of the code might have been taken from different online sources. Since these are written at different times in four or five years, I hvae lost the links for those sources and cant credit them here specifically.
